@@ -1,22 +1,13 @@
 # Hi there, I'm Electro Games 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-nbq4XhwafgA9fO5Sf0Ptg?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Twitter Follow](https://img.shields.io/twitter/follow/RealElectroGame?color=1DA1F2&logo=twitter&style=for-the-badge)]
+[![Twitter Follow](https://img.shields.io/twitter/follow/RealElectroGame?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
 
 ## I'm a game developer in high school
 
 - 🥅 Goals for 2023: Release a video game
 - ⚡ Fact: I am probably quitting YouTube and Minecraft
-
-### Connect with me:
-
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC-nbq4XhwafgA9fO5Sf0Ptg#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC-nbq4XhwafgA9fO5Sf0Ptg#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/RealElectroGame#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/RealElectroGame#gh-dark-mode-only)
-&nbsp;&nbsp;
 
 ### Languages and Tools:
 
@@ -31,7 +22,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />]
 [<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unity/unity-original.svg" style="padding-right:10px;" />]
 
-<br />
 <br />
 
 ---
