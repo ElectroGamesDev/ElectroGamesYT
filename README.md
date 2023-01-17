@@ -30,4 +30,4 @@
 
 [twitter]: https://twitter.com/RealElectroGame
 [youtube]: https://www.youtube.com/channel/UC-nbq4XhwafgA9fO5Sf0Ptg
-[github] https://github.com/ElectroGamesYT
+[github]: https://github.com/ElectroGamesYT
