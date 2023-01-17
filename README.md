@@ -7,7 +7,7 @@
 ## I'm a game developer in high school
 
 - 🥅 Goals for 2023: Release a video game
-- ⚡ Fact: I am probably quitting YouTube and Minecraft
+- ⚡ I am probably quitting YouTube and Minecraft
 
 ### Languages and Tools:
 
