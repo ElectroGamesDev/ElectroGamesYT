@@ -1,13 +1,12 @@
 # Hi there, I'm Electro Games 👋 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-nbq4XhwafgA9fO5Sf0Ptg?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/RealElectroGame?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
 
 ## I'm a game developer in high school
 
 - 🥅 Goals for 2023: Release a video game
-- ⚡ I am probably quitting YouTube and Minecraft
+- ⚡ Graduating high school in under a year!
 
 ### Languages and Tools:
 
@@ -27,5 +26,4 @@
 <img align="left" alt="ElectroGamesYT's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ElectroGamesYT&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 [twitter]: https://twitter.com/RealElectroGame
-[youtube]: https://www.youtube.com/channel/UC-nbq4XhwafgA9fO5Sf0Ptg
 [github]: https://github.com/ElectroGamesYT
